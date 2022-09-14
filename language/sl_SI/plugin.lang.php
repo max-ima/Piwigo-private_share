@@ -13,3 +13,12 @@ $lang['Send email'] = 'Pošlji e-pošto';
 $lang['Share'] = 'Delite';
 $lang['a list of albums'] = 'seznam albumov';
 $lang['all albums'] = 'vsi albumi';
+$lang['Photo shared'] = 'Slika v skupni rabi';
+$lang['Your email has been sent'] = 'Vaše e-poštno sporočilo je bilo poslano';
+$lang['Your email could not be sent'] = 'Vaše e-pošte ni bilo mogoče poslati';
+$lang['Share this picture'] = 'Delite to sliko';
+$lang['Click here to see the picture'] = 'Kliknite tukaj za ogled slike';
+$lang['Share link'] = 'Delite povezavo';
+$lang['%s has shared a photo with you'] = '%s je dal sliko v skupno rabo z vami';
+
+?>
